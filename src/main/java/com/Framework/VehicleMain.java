@@ -17,7 +17,7 @@ import java.io.File;
 import java.io.IOException;
 
 /**
- * Created by anitha on 01/09/2017.
+ * This class is used as a standalone during development --- do not use ------
  */
 public class VehicleMain {
     protected static HomePage homePage;
